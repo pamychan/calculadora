@@ -8,3 +8,12 @@ and open the template in the editor.
     Author     : Pamychan
 */
 
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+body{
+    height: 100vh;
+    padding: 10vh 10vw 10vh 10vw;
+  
+}
