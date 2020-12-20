@@ -17,3 +17,14 @@ body{
     padding: 10vh 10vw 10vh 10vw;
   
 }
+
+.fila-botones > div > div:hover{
+   background-color: #d7d7d8!important;
+   cursor: pointer;
+}
+
+
+ .btn-calc:fucus{
+    background-color: #999999!important;
+   cursor: pointer;
+}
